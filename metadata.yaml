@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1987
     wikipedia: http://en.wikipedia.org/wiki/Israel_Zangwill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28164#The-Big-Bow-Mystery
 gutenberg_issued: '2009-02-23'
 gutenberg_type: Text
 identifiers:
